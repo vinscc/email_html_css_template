@@ -2,5 +2,4 @@
 A basic email template compatible with Outlook app.
 
 #### Example
-![image](https://user-images.githubusercontent.com/96167238/203695835-95c80cd4-3223-4ea8-abe7-4a530c33ffd2.png)
-![image](https://user-images.githubusercontent.com/96167238/203695700-aba4b292-45ad-4106-ad8c-f7c46a7a13e7.png)
+![image](https://user-images.githubusercontent.com/96167238/222039827-c3e56a46-60e6-4af6-a31f-c8c7d82698b0.png)
